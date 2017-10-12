@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: test-for-crowdin-integration\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-10-12 02:40+0000\n"
-"PO-Revision-Date: 2017-10-11 22:57-0400\n"
+"PO-Revision-Date: 2017-10-11 22:59-0400\n"
 "Last-Translator: jordangriffiths01 <jordangriffiths01@gmail.com>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -35,5 +35,5 @@ msgstr "Sur"
 #: templates/base.html:58 templates/base.html:118
 #: templates/general/about.html:16
 msgid "This is a new string."
-msgstr ""
+msgstr "Il s’agit d’une nouvelle chaîne."
 
