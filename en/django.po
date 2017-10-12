@@ -32,3 +32,8 @@ msgstr ""
 #: templates/general/about.html:16
 msgid "About"
 msgstr ""
+
+#: templates/base.html:58 templates/base.html:118
+#: templates/general/about.html:16
+msgid "This is a new string."
+msgstr ""
