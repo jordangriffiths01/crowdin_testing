@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: test-for-crowdin-integration\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-10-12 02:40+0000\n"
-"PO-Revision-Date: 2017-10-11 22:47-0400\n"
+"PO-Revision-Date: 2017-10-11 22:51-0400\n"
 "Last-Translator: jordangriffiths01 <jordangriffiths01@gmail.com>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -19,7 +19,7 @@ msgstr ""
 #: templates/base.html:56 templates/base.html:123 templates/topics/index.html:8
 #: templates/topics/index.html:17
 msgid "Topics"
-msgstr ""
+msgstr "Sujets"
 
 #: templates/base.html:57 templates/base.html:128
 #: templates/general/index.html:55 templates/resources/index.html:8
