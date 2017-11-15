@@ -1,0 +1,37 @@
+# Project settings
+project_identifier: "cs-unplugged"
+api_key_env: "CROWDIN_API_KEY"
+base_path: ""
+
+# Preserve directory tree during upload
+preserve_hierarchy: true
+
+files: [
+    {
+        source: "/csunplugged/topics/content/en/**/*.yaml",
+        translation: "/csunplugged/topics/content/%two_letters_code%/**/%original_file_name%",
+        languages_mapping: {
+            two_letters_code: {
+                "en-UD": "xx-lr"
+            }
+        }
+    },
+    {
+        source: "/csunplugged/topics/content/en/**/*.md",
+        translation: "/csunplugged/topics/content/%two_letters_code%/**/%original_file_name%",
+        languages_mapping: {
+            two_letters_code: {
+                "en-UD": "xx-lr"
+            }
+        }
+    },
+    {
+        source: "/csunplugged/locale/en/LC_MESSAGES/*.po",
+        translation: "/csunplugged/locale/%two_letters_code%/LC_MESSAGES/%original_file_name%",
+        languages_mapping: {
+            two_letters_code: {
+                "en-UD": "xx_LR"
+            }
+        }
+    },
+]
