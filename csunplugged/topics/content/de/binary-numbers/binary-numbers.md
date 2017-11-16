@@ -1,4 +1,4 @@
-# Binary numbers
+# A change to all 3 languages (de)
 
 There are 3 changes but only two should get detected
 
