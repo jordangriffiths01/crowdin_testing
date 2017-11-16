@@ -1,4 +1,4 @@
-# Binary numbers
+# A change to all 3 languages (fr)
 
 Some changes:
 
