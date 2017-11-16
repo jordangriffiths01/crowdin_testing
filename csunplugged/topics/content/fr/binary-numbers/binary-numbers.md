@@ -1,6 +1,6 @@
 # Binary numbers
 
-Even more translations!
+Some changes:
 
 There are 3 changes but only two should get detected
 
